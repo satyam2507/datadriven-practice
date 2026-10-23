@@ -1,6 +1,6 @@
 # satyam_srivastava's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/satyam_srivastava), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/satyam_srivastava), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/satyam_srivastava), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-10-23 |
 | [The Token Census](./practice/sql/the-token-census) | SQL | Easy | 2026-09-26 |
 
 <!-- datadriven:index:end -->
