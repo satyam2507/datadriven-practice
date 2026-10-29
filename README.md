@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/satyam_srivastava), commit
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Carrying Forward](./practice/python/carrying-forward) | Python | Medium | 2026-10-29 |
 | [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-10-25 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-25 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-10-23 |
